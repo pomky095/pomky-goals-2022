@@ -1,0 +1,5 @@
+Planning android developer by Pomky
+
+1. Learn how to creat android program using java.
+2. Implementations the program.
+3. Start how to debug the program and maintenance it.
