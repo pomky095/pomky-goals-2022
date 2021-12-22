@@ -3,4 +3,5 @@ Planning android developer by Pomky
 1. Learn how to creat android program using java.
    And the important things is, i must to learn using the framework for help me to buil easily the program.
 2. Implementations the program.
+   Let's finish it during 1 year count from today 12/22/2021
 3. Start how to debug the program and maintenance it.
