@@ -7,3 +7,4 @@ Planning android developer by Pomky
    Let's finish it during 1 year count from today 12/22/2021
 3. Start how to debug the program and maintenance it.
    Learn in stackoverflow
+
